@@ -13,4 +13,4 @@ function Card( { title, setSelected, selected }) {
     );
 }
 
-export default Card;
+export default Card;    
